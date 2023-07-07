@@ -5,8 +5,8 @@
 - cd blog-ejemplo
 - npm install && npm run build
 - crear en el directorio /database, el archivo ```database.sqlite```
--- Linux: touch database/database.sqlite
--- Windows: cd database y luego echo.> database.sqlite
+- - Linux: touch database/database.sqlite
+- - Windows: cd database y luego echo.> database.sqlite
 - - Si quisieran usar otra DB, hay que configurar el archivo ```.env``` a gusto.
 - crear carpeta ```blog_images``` en el directorio ```/public```
 - composer install
