@@ -5,6 +5,7 @@
 - cd blog-ejemplo
 - npm install && npm run build
 - crear en el directorio /database, el archivo ```database.sqlite```
+- - Si quisieran usar otra DB, hay que configurar el archivo ```.env``` a gusto.
 - crear carpeta ```blog_images``` en el directorio ```/public```
 - composer install
 - php artisan migrate;
@@ -13,6 +14,10 @@
 - - Ir a Registrarse
 - - Crear un usuario cualquier
 - Una vez logueado, ir a: http://TU_IP:8000/blog_admin/setup y aprentar el boton "SETUP PACKAGE".
+
+## Blog
+- Admin panel: http://TU_IP:8000/blog_admin
+- Blog: http://TU_IP:8000/en/blog
 
 ## Creditos 
 
