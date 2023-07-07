@@ -1,6 +1,9 @@
 # Aplicación Blog de Ejemplo
+
+## Requisitos
+- PHP 8.1 (con la librería GD para procesar imagenes), Composer y Nodejs.
+- Si preferis usar docker, fijate la última sección.
 ## Instalación
-- Tener instalado PHP 8.1 (con la librería GD para procesar imagenes), Composer y Nodejs.
 - git clone https://github.com/jusrionegrosistemas/blog.git blog-ejemplo
 - cd blog-ejemplo
 - npm install && npm run build
