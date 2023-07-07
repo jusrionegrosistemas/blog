@@ -1,7 +1,6 @@
 # Aplicación Blog de Ejemplo
-
 ## Instalación
-
+- Tener instalador PHP 8.1, Composer y Nodejs.
 - git clone https://github.com/jusrionegrosistemas/blog.git blog-ejemplo
 - cd blog-ejemplo
 - npm install && npm run build
