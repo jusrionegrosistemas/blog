@@ -14,6 +14,7 @@
 - - Ir a Registrarse
 - - Crear un usuario cualquier
 - Una vez logueado, ir a: http://TU_IP:8000/blog_admin/setup y aprentar el boton "SETUP PACKAGE".
+- **Importante**: La búsqueda dentro del admin panel no funciona. No la vamos a usar.
 
 ## Blog
 - Admin panel: http://TU_IP:8000/blog_admin
